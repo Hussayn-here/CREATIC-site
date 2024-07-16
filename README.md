@@ -1,2 +1,2 @@
 # CREATIC-site
-CREATIC Creative Agency Website
+CREATIC Creative Agency Website.
